@@ -5,9 +5,9 @@ export default () => {
     <div>
       Super Special Secret Recipe
       <ul>
-        <li>Sugar</li>
-        <li>Sugar</li>
-        <li>Sugar</li>
+        <li>1 Cup Sugar</li>
+        <li>1 Cup Pepper</li>
+        <li>1 Cup Salt</li>
       </ul>
     </div>
   );
